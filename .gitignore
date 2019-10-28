@@ -3,3 +3,8 @@
 *.res
 *.tds
 *.ddp
+
+*.ssw
+iphist.dat
+log.txt
+usb.txt
