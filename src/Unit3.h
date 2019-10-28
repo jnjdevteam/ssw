@@ -55,11 +55,13 @@ __published:	// IDE-managed Components
         TLabel *Label11;
         TLabel *Label12;
         TLabel *Label13;
+    TButton *Button1;
     void __fastcall RadioButton1Click(TObject *Sender);
     void __fastcall RadioButton2Click(TObject *Sender);
     void __fastcall RadioButton3Click(TObject *Sender);
         void __fastcall FormShow(TObject *Sender);
         void __fastcall Image3Click(TObject *Sender);
+    void __fastcall Button1Click(TObject *Sender);
 private:	// User declarations
 public:		// User declarations
     __fastcall TForm3(TComponent* Owner);

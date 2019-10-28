@@ -63,6 +63,7 @@ void __fastcall TForm2::Button2Click(TObject *Sender) // Ãë¼Ò
 {
     Timer1->Enabled=false ;
     Form2->Close() ;
+    Form1->Show() ;
 }
 //---------------------------------------------------------------------------
 

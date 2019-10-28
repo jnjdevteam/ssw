@@ -86,3 +86,10 @@ void __fastcall TForm3::Image3Click(TObject *Sender)
 }
 //---------------------------------------------------------------------------
 
+void __fastcall TForm3::Button1Click(TObject *Sender)
+{
+    Form3->Hide() ;
+    Form4->Show() ;
+}
+//---------------------------------------------------------------------------
+
